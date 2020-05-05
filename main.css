@@ -3,7 +3,7 @@ body {
   }
 
   ul {
-    font-family: monospace;
+    font-family: cursive;
   }
   ...
 li {
@@ -15,7 +15,7 @@ li {
 }
 
 #date {
-  font-size: 12px;
+  font-size: 14px;
   font-style: italic;
   font-weight: bold;
 }
